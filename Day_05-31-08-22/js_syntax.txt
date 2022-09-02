@@ -1,0 +1,74 @@
+JavaScript Values 
+
+// 1. Fixed Values
+// 2. variable Values
+
+ Fixed values are called letarels.
+
+ Variable valus are called variables.
+
+ The most importatnt syntax rules for fixed values are ⤵
+
+ 1. Number : are written with and without decimals like:
+
+ 20.30
+
+ 134
+
+
+2. strings are text,written within dubble or single quotes like 
+
+ "Hello World"
+
+ 'Hello World'
+
+-------------------------------------------------------------------------------
+
+Operator introduction
+
+arithmetic Operator (+, -, *, / )
+
+Assignment operator (=)
+
+-----------------------------------------------------------------------------------
+
+JS expration 
+
+An expratin is a combination of values, variable, operator which is computes to a value 
+
+
+like 5*6 = 30  "5" is a value "*" is a operator 
+
+Exprations   can also contain variable values : 
+
+x* 6 = 30 "x" is a variable value.
+
+Also, the valus can be of various types such number and string . 
+
+Like: "Toukir" + " " + "Hossain"
+
+------------------------------------------------------------------------------------------------------
+
+Js case sevsitive 
+
+
+Camel case
+
+The first letter of the first word of a sentence is capitalized and the first letter of all subsequent words is lowercase
+
+
+Like : oneTwoThree || helloWorld
+
+NB: Hyphens are not allowed in JavaScript. They are reserved for subtractions.
+
+ JavaScript "-" treat by subtractions.
+
+ We can use the undercose
+
+ Upper camel case --> Capitalize the first letter of each word
+
+ Like : Apple, Ball 
+
+ Lower camel case - >> The first letter of each sentence is lowercase
+
+firstName, lastName 
